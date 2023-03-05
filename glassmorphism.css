@@ -62,7 +62,6 @@ section .girl{
 
 .login{
     position: relative;
-    right: 15em;
     padding: 60px;
     background: rgba(255, 255, 255, 0.25);
     backdrop-filter: blur(15px);
